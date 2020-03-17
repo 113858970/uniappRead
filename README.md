@@ -7,3 +7,5 @@
 基于微信的appid（不是unionID，无法实现客户端和小程序用户openid共享）进行登录
 
 填写的appid需要和服务端appid/SECRET一致
+
+服务端代码[](https://github.com/113858970/uniappReadServer)
